@@ -8,7 +8,7 @@ defmodule FormTest do
   # Don't worry if you don't understand this test suite at this stage of your learning journey.
   # We had to use some advanced features to be able to write assertions about docs and typespecs.
   # You wouldn't normally write assertions for that in a typical codebase.
-  # We're doing it here strictly for educational purposes.
+  # ses.We're doing it here strictly for educational purpo
 
   defmacrop assert_moduledoc(expected_moduledoc) do
     quote do
